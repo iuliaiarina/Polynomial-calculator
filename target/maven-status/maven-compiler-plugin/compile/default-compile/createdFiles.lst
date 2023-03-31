@@ -1,0 +1,11 @@
+Main.class
+Model\Monomial.class
+Controller\Controller$DerivateListener.class
+Controller\Controller$DivideListener.class
+Controller\Controller$MultiplicateListener.class
+Controller\Controller.class
+Model\Polynomial.class
+View\View.class
+Controller\Controller$SubstractListener.class
+Controller\Controller$AddListener.class
+Controller\Controller$IntegrateListener.class
